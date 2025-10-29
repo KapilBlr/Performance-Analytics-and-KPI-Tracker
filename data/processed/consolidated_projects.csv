@@ -1,0 +1,61 @@
+Project_ID,Department,Project_Name,Manager,Status,Planned_Cost,Actual_Cost,Cost_Variance,Cost_Variance_Pct,Start_Date,End_Date,Duration_Days,Planned_Completion,Actual_Completion,Completion_Variance,Tasks_Total,Tasks_Completed,Task_Completion_Pct,Planned_Hours,Actual_Hours,Hours_Variance,Hours_Variance_Pct,Delivery_Status,Budget_Status
+1001,Marketing,Content Marketing Strategy,Emma Watson,In Progress,10425.0,11629.95,1204.9500000000007,11.56,2024-08-15,2024-10-03,49.0,100,71,-29,40,28,70.0,684,759,75,0.0,In-Progress,Over Budget
+1002,Marketing,Q1 Product Launch,Akash Verma,In Progress,16338.0,15940.05,-397.9500000000007,-2.44,2024-07-03,2024-09-03,62.0,100,52,-48,52,27,51.92,1147,1421,274,0.0,In-Progress,Within Budget
+1003,Marketing,SEO Optimization Project,John Smith,Not Started,29213.0,33311.34,4098.3399999999965,14.03,2024-10-03,2024-12-26,84.0,100,0,-100,69,0,0.0,770,992,222,0.0,In-Progress,Over Budget
+1004,Marketing,Website Redesign,John Smith,Not Started,28965.0,34608.18,5643.18,19.48,2024-07-22,2024-09-03,43.0,100,0,-100,44,0,0.0,789,898,109,0.0,In-Progress,Over Budget
+1005,Marketing,Partnership Marketing,Akash Verma,Not Started,23730.0,25736.64,2006.6399999999994,8.46,2024-08-12,2024-10-10,59.0,100,0,-100,74,0,0.0,1063,1100,37,0.0,In-Progress,Within Budget
+1006,Marketing,Brand Awareness Drive,Sarah Lee,On Hold,20708.0,20952.17,244.16999999999825,1.18,2024-11-24,2025-01-08,45.0,100,60,-40,47,28,59.57,1104,1411,307,0.0,In-Progress,Within Budget
+1007,Marketing,Video Marketing Campaign,Akash Verma,Completed,30673.0,30378.77,-294.22999999999956,-0.96,2024-07-08,2024-07-26,18.0,100,100,0,34,34,100.0,980,1182,202,0.0,On-Time,Within Budget
+1008,Marketing,Social Media Campaign,Akash Verma,In Progress,35928.0,41663.51,5735.510000000002,15.96,2024-08-21,2024-11-06,77.0,100,66,-34,71,46,64.79,542,630,88,0.0,In-Progress,Over Budget
+1009,Marketing,Trade Show Participation,Akash Verma,On Hold,48242.0,47749.46,-492.5400000000009,-1.02,2024-12-19,2025-02-25,68.0,100,28,-72,44,12,27.27,921,1148,227,0.0,In-Progress,Within Budget
+1010,Marketing,Event Marketing Strategy,John Smith,Completed,37666.0,39878.62,2212.6200000000026,5.87,2024-07-05,2024-08-08,34.0,100,100,0,54,54,100.0,879,953,74,0.0,On-Time,Within Budget
+1011,Marketing,Rebranding Initiative,John Smith,In Progress,45190.0,50287.76,5097.760000000002,11.28,2024-12-24,2025-01-21,28.0,100,57,-43,79,45,56.96,700,873,173,0.0,In-Progress,Over Budget
+1012,Marketing,Influencer Partnership Program,Emma Watson,Not Started,42806.0,47800.89,4994.889999999999,11.67,2024-07-24,2024-09-09,47.0,100,0,-100,62,0,0.0,1040,1195,155,0.0,In-Progress,Over Budget
+1013,Marketing,Loyalty Program Rollout,Sarah Lee,Not Started,45348.0,53679.56,8331.559999999998,18.37,2024-08-12,2024-09-15,34.0,100,0,-100,63,0,0.0,1013,1177,164,0.0,In-Progress,Over Budget
+1014,Marketing,Mobile App Launch,John Smith,Not Started,25692.0,22359.07,-3332.9300000000003,-12.97,2024-07-12,2024-09-03,53.0,100,0,-100,66,0,0.0,487,665,178,0.0,In-Progress,Under Budget
+1015,Marketing,PR Campaign Launch,John Smith,Completed,18414.0,19903.93,1489.9300000000003,8.09,2024-11-25,2024-12-25,30.0,100,100,0,65,65,100.0,940,1133,193,0.0,On-Time,Within Budget
+1016,Marketing,Customer Survey Initiative,Emma Watson,In Progress,30428.0,30112.99,-315.0099999999984,-1.04,2024-08-18,2024-09-26,39.0,100,78,-22,72,56,77.78,929,1256,327,0.0,In-Progress,Within Budget
+1017,Marketing,Email Marketing Automation,Sarah Lee,In Progress,11378.0,12014.12,636.1200000000008,5.59,2024-08-03,2024-09-29,57.0,100,50,-50,44,22,50.0,472,639,167,0.0,In-Progress,Within Budget
+1018,Marketing,Lead Generation Program,John Smith,Completed,31654.0,27690.92,-3963.0800000000017,-12.52,2024-08-03,2024-08-21,18.0,100,100,0,45,45,100.0,897,874,-23,0.0,On-Time,Under Budget
+1019,Marketing,Market Research Study,Sarah Lee,Completed,25925.0,29155.69,3230.6899999999987,12.46,2024-12-19,2025-03-03,74.0,100,100,0,56,56,100.0,499,564,65,0.0,On-Time,Over Budget
+1020,Marketing,Digital Ad Campaign,Akash Verma,Completed,13550.0,14710.93,1160.9300000000003,8.57,2024-10-14,2024-12-26,73.0,100,100,0,71,71,100.0,812,937,125,0.0,On-Time,Within Budget
+2001,Operations,Inventory Management System,Ravi Patel,Not Started,46546.0,43046.28,-3499.720000000001,-7.52,2024-08-14,2024-11-12,90.0,100,0,-100,55,0,0.0,568,675,107,0.0,In-Progress,Within Budget
+2002,Operations,Cost Reduction Program,Vikram Singh,On Hold,33694.0,33628.38,-65.62000000000262,-0.19,2024-09-26,2024-12-21,86.0,100,55,-45,76,41,53.95,1077,1463,386,0.0,In-Progress,Within Budget
+2003,Operations,Logistics Network Redesign,Ravi Patel,Completed,18832.0,19824.69,992.6899999999987,5.27,2024-08-10,2024-10-04,55.0,100,100,0,64,64,100.0,721,663,-58,0.0,On-Time,Within Budget
+2004,Operations,Supplier Diversification,Vikram Singh,Completed,25317.0,22023.46,-3293.540000000001,-13.01,2024-11-28,2025-03-03,95.0,100,100,0,62,62,100.0,590,545,-45,0.0,On-Time,Under Budget
+2005,Operations,Production Line Upgrade,Priya Mehta,Completed,41461.0,36981.57,-4479.43,-10.8,2024-12-28,2025-02-24,58.0,100,100,0,66,66,100.0,1008,921,-87,0.0,On-Time,Under Budget
+2006,Operations,Quality Control Enhancement,Priya Mehta,Completed,52042.0,53758.03,1716.0299999999988,3.3,2024-10-22,2025-02-01,102.0,100,100,0,46,46,100.0,1133,1144,11,0.0,On-Time,Within Budget
+2007,Operations,Waste Reduction Program,Aditi Nair,Not Started,34660.0,35007.59,347.5899999999965,1.0,2024-10-05,2025-01-23,110.0,100,0,-100,78,0,0.0,409,502,93,0.0,In-Progress,Within Budget
+2008,Operations,Sustainability Initiative,Priya Mehta,Not Started,48153.0,45399.62,-2753.3799999999974,-5.72,2024-07-18,2024-09-11,55.0,100,0,-100,52,0,0.0,650,770,120,0.0,In-Progress,Within Budget
+2009,Operations,Vendor Management Platform,Ravi Patel,In Progress,61107.0,58411.02,-2695.980000000003,-4.41,2024-10-27,2025-02-01,97.0,100,92,-8,71,65,91.55,967,1233,266,0.0,In-Progress,Within Budget
+2010,Operations,Demand Forecasting System,Priya Mehta,Completed,73308.0,65058.11,-8249.89,-11.25,2024-08-09,2024-09-20,42.0,100,100,0,65,65,100.0,688,764,76,0.0,On-Time,Under Budget
+2011,Operations,Cold Chain Management,Aditi Nair,Completed,70896.0,66811.99,-4084.0099999999948,-5.76,2024-08-22,2024-12-09,109.0,100,100,0,61,61,100.0,452,421,-31,0.0,On-Time,Within Budget
+2012,Operations,Supply Chain Integration,Vikram Singh,On Hold,36859.0,41278.09,4419.0899999999965,11.99,2024-09-02,2024-09-30,28.0,100,30,-70,70,21,30.0,1159,1415,256,0.0,In-Progress,Over Budget
+2013,Operations,Distribution Center Expansion,Vikram Singh,Not Started,19931.0,23533.88,3602.880000000001,18.08,2024-11-01,2024-12-13,42.0,100,0,-100,74,0,0.0,958,975,17,0.0,In-Progress,Over Budget
+2014,Operations,Fleet Management System,Aditi Nair,Completed,43166.0,38616.56,-4549.440000000002,-10.54,2024-11-18,2025-01-03,46.0,100,100,0,49,49,100.0,440,534,94,0.0,On-Time,Under Budget
+2015,Operations,Lean Manufacturing Implementation,Ravi Patel,On Hold,38178.0,42875.45,4697.449999999997,12.3,2024-12-08,2025-01-18,41.0,100,29,-71,56,16,28.57,642,919,277,0.0,In-Progress,Over Budget
+2016,Operations,Warehouse Optimization,Ravi Patel,Not Started,63271.0,74252.98,10981.979999999996,17.36,2024-10-01,2024-11-20,50.0,100,0,-100,80,0,0.0,1085,1553,468,0.0,In-Progress,Over Budget
+2017,Operations,Process Automation Initiative,Ravi Patel,Completed,40070.0,46291.2,6221.199999999997,15.53,2024-09-06,2024-10-17,41.0,100,100,0,60,60,100.0,871,890,19,0.0,On-Time,Over Budget
+2018,Operations,Six Sigma Project,Ravi Patel,Not Started,27656.0,27364.59,-291.40999999999985,-1.05,2024-08-01,2024-11-21,112.0,100,0,-100,47,0,0.0,1191,1357,166,0.0,In-Progress,Within Budget
+2019,Operations,Equipment Maintenance Overhaul,Vikram Singh,Not Started,36702.0,43261.86,6559.860000000001,17.87,2024-12-27,2025-04-02,96.0,100,0,-100,37,0,0.0,667,726,59,0.0,In-Progress,Over Budget
+2020,Operations,Safety Compliance Upgrade,Aditi Nair,Completed,43479.0,42217.7,-1261.300000000003,-2.9,2024-07-04,2024-10-16,104.0,100,100,0,80,80,100.0,1020,1269,249,0.0,On-Time,Within Budget
+3001,IT,Data Center Modernization,Rohit Singh,Completed,72743.0,79582.51,6839.509999999995,9.4,2024-12-14,2025-03-07,83.0,100,100,0,65,65,100.0,830,940,110,0.0,On-Time,Within Budget
+3002,IT,Database Migration,Anjali Desai,In Progress,42810.0,45611.07,2801.0699999999997,6.54,2024-12-24,2025-05-30,157.0,100,50,-50,49,24,48.98,711,812,101,0.0,In-Progress,Within Budget
+3003,IT,DevOps Pipeline Implementation,Anjali Desai,In Progress,62237.0,63030.26,793.260000000002,1.27,2024-11-20,2025-03-25,125.0,100,82,-18,58,47,81.03,884,1459,575,0.0,In-Progress,Within Budget
+3004,IT,Network Infrastructure Upgrade,Karan Gupta,Completed,87561.0,94771.55,7210.550000000003,8.23,2024-12-03,2025-02-19,78.0,100,100,0,69,69,100.0,1169,1148,-21,0.0,On-Time,Within Budget
+3005,IT,Cybersecurity Enhancement,Rohit Singh,On Hold,39313.0,33752.13,-5560.870000000003,-14.15,2024-08-26,2024-11-01,67.0,100,59,-41,45,26,57.78,1186,1229,43,0.0,In-Progress,Under Budget
+3006,IT,Software License Optimization,Anjali Desai,Completed,70328.0,71947.8,1619.800000000003,2.3,2024-12-19,2025-02-23,66.0,100,100,0,45,45,100.0,1104,995,-109,0.0,On-Time,Within Budget
+3007,IT,Legacy System Decommission,Neha Sharma,Completed,87889.0,88995.74,1106.7400000000052,1.26,2024-10-08,2024-12-11,64.0,100,100,0,65,65,100.0,524,555,31,0.0,On-Time,Within Budget
+3008,IT,Cloud Migration Project,Anjali Desai,Not Started,93259.0,98706.1,5447.100000000006,5.84,2024-12-17,2025-06-03,168.0,100,0,-100,78,0,0.0,1027,1445,418,0.0,In-Progress,Within Budget
+3009,IT,Backup System Overhaul,Anjali Desai,In Progress,40861.0,45367.13,4506.129999999997,11.03,2024-11-15,2025-04-20,156.0,100,65,-35,60,39,65.0,1052,1241,189,0.0,In-Progress,Over Budget
+3010,IT,AI/ML Model Deployment,Anjali Desai,Completed,77654.0,68111.81,-9542.190000000002,-12.29,2024-12-08,2025-02-23,77.0,100,100,0,48,48,100.0,743,751,8,0.0,On-Time,Under Budget
+3011,IT,Blockchain Integration,Neha Sharma,Completed,70205.0,76725.81,6520.809999999998,9.29,2024-08-05,2024-10-15,71.0,100,100,0,75,75,100.0,824,859,35,0.0,On-Time,Within Budget
+3012,IT,API Integration Platform,Anjali Desai,In Progress,75069.0,74041.82,-1027.179999999993,-1.37,2024-10-02,2024-12-09,68.0,100,94,-6,79,74,93.67,420,758,338,0.0,In-Progress,Within Budget
+3013,IT,Microservices Architecture,Anjali Desai,Not Started,66105.0,63098.18,-3006.8199999999997,-4.55,2024-10-01,2025-03-12,162.0,100,0,-100,54,0,0.0,829,1052,223,0.0,In-Progress,Within Budget
+3014,IT,IoT Platform Development,Karan Gupta,Completed,77125.0,78665.55,1540.550000000003,2.0,2024-10-08,2024-12-23,76.0,100,100,0,54,54,100.0,1095,1291,196,0.0,On-Time,Within Budget
+3015,IT,Business Intelligence Dashboard,Karan Gupta,In Progress,90008.0,77356.32,-12651.679999999993,-14.06,2024-10-05,2025-03-21,167.0,100,92,-8,55,50,90.91,427,459,32,0.0,In-Progress,Under Budget
+3016,IT,ERP System Upgrade,Anjali Desai,Completed,43819.0,38017.35,-5801.6500000000015,-13.24,2024-08-28,2024-12-07,101.0,100,100,0,54,54,100.0,865,877,12,0.0,On-Time,Under Budget
+3017,IT,Mobile App Development,Anjali Desai,In Progress,75255.0,70611.39,-4643.610000000001,-6.17,2024-09-25,2025-03-07,163.0,100,84,-16,35,29,82.86,453,833,380,0.0,In-Progress,Within Budget
+3018,IT,CRM System Implementation,Rohit Singh,Completed,25276.0,28157.0,2881.0,11.4,2024-08-21,2024-10-10,50.0,100,100,0,45,45,100.0,420,469,49,0.0,On-Time,Over Budget
+3019,IT,Disaster Recovery Setup,Karan Gupta,In Progress,34993.0,36651.3,1658.300000000003,4.74,2024-08-16,2024-12-21,127.0,100,66,-34,43,28,65.12,1185,1473,288,0.0,In-Progress,Within Budget
+3020,IT,Zero Trust Security Model,Neha Sharma,In Progress,95849.0,82333.09,-13515.910000000003,-14.1,2024-08-10,2024-10-04,55.0,100,74,-26,49,36,73.47,806,1367,561,0.0,In-Progress,Under Budget
