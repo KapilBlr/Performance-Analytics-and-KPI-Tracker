@@ -1,0 +1,202 @@
+2025-10-28 19:45:38,207 - INFO - ==================================================
+2025-10-28 19:45:38,207 - INFO - Starting ETL Pipeline Execution
+2025-10-28 19:45:38,208 - INFO - ==================================================
+2025-10-28 19:45:38,367 - INFO - Database connection established successfully
+2025-10-28 19:45:38,368 - INFO - 
+Processing MARKETING department...
+2025-10-28 19:45:38,371 - ERROR - File not found: marketing_projects.csv
+2025-10-28 19:45:38,371 - ERROR - 
+ETL Pipeline Failed: [Errno 2] No such file or directory: 'marketing_projects.csv'
+2025-10-28 19:48:34,169 - INFO - ==================================================
+2025-10-28 19:48:34,171 - INFO - Starting ETL Pipeline Execution
+2025-10-28 19:48:34,171 - INFO - ==================================================
+2025-10-28 19:48:34,276 - INFO - Database connection established successfully
+2025-10-28 19:48:34,277 - INFO - 
+Processing MARKETING department...
+2025-10-28 19:48:34,307 - INFO - Successfully extracted 20 records from marketing_projects.csv
+2025-10-28 19:48:34,346 - INFO - Data transformation completed for 20 records
+2025-10-28 19:48:34,470 - ERROR - Error loading data to marketing_projects: 'cryptography' package is required for sha256_password or caching_sha2_password auth methods
+2025-10-28 19:48:34,471 - ERROR - 
+ETL Pipeline Failed: 'cryptography' package is required for sha256_password or caching_sha2_password auth methods
+2025-10-28 19:50:12,537 - INFO - ==================================================
+2025-10-28 19:50:12,538 - INFO - Starting ETL Pipeline Execution
+2025-10-28 19:50:12,538 - INFO - ==================================================
+2025-10-28 19:50:13,773 - INFO - Database connection established successfully
+2025-10-28 19:50:13,773 - INFO - 
+Processing MARKETING department...
+2025-10-28 19:50:13,779 - INFO - Successfully extracted 20 records from marketing_projects.csv
+2025-10-28 19:50:13,791 - INFO - Data transformation completed for 20 records
+2025-10-28 19:50:14,204 - INFO - Successfully loaded 20 records to table 'marketing_projects'
+2025-10-28 19:50:14,205 - INFO - 
+Processing OPERATIONS department...
+2025-10-28 19:50:14,206 - ERROR - File not found: ops_projects.csv
+2025-10-28 19:50:14,206 - ERROR - 
+ETL Pipeline Failed: [Errno 2] No such file or directory: 'ops_projects.csv'
+2025-10-28 19:50:40,489 - INFO - ==================================================
+2025-10-28 19:50:40,489 - INFO - Starting ETL Pipeline Execution
+2025-10-28 19:50:40,490 - INFO - ==================================================
+2025-10-28 19:50:40,680 - INFO - Database connection established successfully
+2025-10-28 19:50:40,680 - INFO - 
+Processing MARKETING department...
+2025-10-28 19:50:40,687 - INFO - Successfully extracted 20 records from marketing_projects.csv
+2025-10-28 19:50:40,696 - INFO - Data transformation completed for 20 records
+2025-10-28 19:50:40,954 - INFO - Successfully loaded 20 records to table 'marketing_projects'
+2025-10-28 19:50:40,954 - INFO - 
+Processing OPERATIONS department...
+2025-10-28 19:50:40,959 - INFO - Successfully extracted 20 records from operations_projects.csv
+2025-10-28 19:50:40,968 - INFO - Data transformation completed for 20 records
+2025-10-28 19:50:41,065 - INFO - Successfully loaded 20 records to table 'operations_projects'
+2025-10-28 19:50:41,067 - INFO - 
+Processing IT department...
+2025-10-28 19:50:41,075 - INFO - Successfully extracted 20 records from it_projects.csv
+2025-10-28 19:50:41,086 - INFO - Data transformation completed for 20 records
+2025-10-28 19:50:41,154 - INFO - Successfully loaded 20 records to table 'it_projects'
+2025-10-28 19:50:41,154 - INFO - 
+Consolidating all departments...
+2025-10-28 19:50:41,171 - ERROR - Error during consolidation: (pymysql.err.ProgrammingError) (1146, "Table 'project_performance.ops_projects' doesn't exist")
+[SQL: SELECT * FROM ops_projects]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-10-28 19:50:41,171 - ERROR - 
+ETL Pipeline Failed: (pymysql.err.ProgrammingError) (1146, "Table 'project_performance.ops_projects' doesn't exist")
+[SQL: SELECT * FROM ops_projects]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-10-28 19:54:45,890 - INFO - ==================================================
+2025-10-28 19:54:45,892 - INFO - Starting ETL Pipeline Execution
+2025-10-28 19:54:45,892 - INFO - ==================================================
+2025-10-28 19:54:46,175 - INFO - Database connection established successfully
+2025-10-28 19:54:46,176 - INFO - 
+Processing MARKETING department...
+2025-10-28 19:54:46,197 - INFO - Successfully extracted 20 records from marketing_projects.csv
+2025-10-28 19:54:46,219 - INFO - Data transformation completed for 20 records
+2025-10-28 19:54:46,377 - INFO - Successfully loaded 20 records to table 'marketing_projects'
+2025-10-28 19:54:46,378 - INFO - 
+Processing OPERATIONS department...
+2025-10-28 19:54:46,383 - INFO - Successfully extracted 20 records from operations_projects.csv
+2025-10-28 19:54:46,389 - INFO - Data transformation completed for 20 records
+2025-10-28 19:54:46,469 - INFO - Successfully loaded 20 records to table 'operations_projects'
+2025-10-28 19:54:46,469 - INFO - 
+Processing IT department...
+2025-10-28 19:54:46,473 - INFO - Successfully extracted 20 records from it_projects.csv
+2025-10-28 19:54:46,479 - INFO - Data transformation completed for 20 records
+2025-10-28 19:54:46,561 - INFO - Successfully loaded 20 records to table 'it_projects'
+2025-10-28 19:54:46,562 - INFO - 
+Consolidating all departments...
+2025-10-28 19:54:46,585 - INFO - Extracted - Marketing: 20, Operations: 20, IT: 20 records
+2025-10-28 19:54:46,644 - INFO - Successfully loaded 60 records to table 'consolidated_projects'
+2025-10-28 19:54:46,644 - INFO - Successfully consolidated 60 total records
+2025-10-28 19:54:46,645 - INFO - 
+Calculating KPIs...
+2025-10-28 19:54:46,657 - ERROR - Error calculating KPIs: "None of [Index([-1, -1, -1, -1, -1, -1, -2, -1, -1, -2, -1, -1, -1, -1, -2, -1, -1, -2,\n       -2, -2, -1, -1, -2, -2, -2, -2, -1, -1, -1, -2, -2, -1, -1, -2, -1, -1,\n       -2, -1, -1, -2, -2, -1, -1, -2, -1, -2, -2, -1, -1, -2, -2, -1, -1, -2,\n       -1, -2, -1, -2, -1, -1],\n      dtype='int64')] are in the [columns]"
+2025-10-28 19:54:46,657 - ERROR - 
+ETL Pipeline Failed: "None of [Index([-1, -1, -1, -1, -1, -1, -2, -1, -1, -2, -1, -1, -1, -1, -2, -1, -1, -2,\n       -2, -2, -1, -1, -2, -2, -2, -2, -1, -1, -1, -2, -2, -1, -1, -2, -1, -1,\n       -2, -1, -1, -2, -2, -1, -1, -2, -1, -2, -2, -1, -1, -2, -2, -1, -1, -2,\n       -1, -2, -1, -2, -1, -1],\n      dtype='int64')] are in the [columns]"
+2025-10-28 20:03:41,207 - INFO - ==================================================
+2025-10-28 20:03:41,208 - INFO - Starting ETL Pipeline Execution
+2025-10-28 20:03:41,209 - INFO - ==================================================
+2025-10-28 20:03:41,563 - INFO - Database connection established successfully
+2025-10-28 20:03:41,563 - INFO - 
+Processing MARKETING department...
+2025-10-28 20:03:41,587 - INFO - Successfully extracted 20 records from marketing_projects.csv
+2025-10-28 20:03:41,620 - INFO - Data transformation completed for 20 records
+2025-10-28 20:03:41,726 - ERROR - Error loading data to marketing_projects: (pymysql.err.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-10-28 20:03:41,727 - ERROR - 
+ETL Pipeline Failed: (pymysql.err.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-10-28 20:05:20,217 - INFO - ==================================================
+2025-10-28 20:05:20,217 - INFO - Starting ETL Pipeline Execution
+2025-10-28 20:05:20,218 - INFO - ==================================================
+2025-10-28 20:05:20,435 - INFO - Database connection established successfully
+2025-10-28 20:05:20,435 - INFO - 
+Processing MARKETING department...
+2025-10-28 20:05:20,445 - INFO - Successfully extracted 20 records from marketing_projects.csv
+2025-10-28 20:05:20,456 - INFO - Data transformation completed for 20 records
+2025-10-28 20:05:20,646 - INFO - Successfully loaded 20 records to table 'marketing_projects'
+2025-10-28 20:05:20,647 - INFO - 
+Processing OPERATIONS department...
+2025-10-28 20:05:20,651 - INFO - Successfully extracted 20 records from operations_projects.csv
+2025-10-28 20:05:20,657 - INFO - Data transformation completed for 20 records
+2025-10-28 20:05:20,752 - INFO - Successfully loaded 20 records to table 'operations_projects'
+2025-10-28 20:05:20,753 - INFO - 
+Processing IT department...
+2025-10-28 20:05:20,757 - INFO - Successfully extracted 20 records from it_projects.csv
+2025-10-28 20:05:20,763 - INFO - Data transformation completed for 20 records
+2025-10-28 20:05:20,845 - INFO - Successfully loaded 20 records to table 'it_projects'
+2025-10-28 20:05:20,845 - INFO - 
+Consolidating all departments...
+2025-10-28 20:05:20,873 - INFO - Extracted - Marketing: 20, Operations: 20, IT: 20 records
+2025-10-28 20:05:20,963 - INFO - Successfully loaded 60 records to table 'consolidated_projects'
+2025-10-28 20:05:20,964 - INFO - Successfully consolidated 60 total records
+2025-10-28 20:05:20,964 - INFO - 
+Calculating KPIs...
+2025-10-28 20:05:20,986 - ERROR - Error calculating KPIs: "None of [Index([-1, -1, -1, -1, -1, -1, -2, -1, -1, -2, -1, -1, -1, -1, -2, -1, -1, -2,\n       -2, -2, -1, -1, -2, -2, -2, -2, -1, -1, -1, -2, -2, -1, -1, -2, -1, -1,\n       -2, -1, -1, -2, -2, -1, -1, -2, -1, -2, -2, -1, -1, -2, -2, -1, -1, -2,\n       -1, -2, -1, -2, -1, -1],\n      dtype='int64')] are in the [columns]"
+2025-10-28 20:05:20,987 - ERROR - 
+ETL Pipeline Failed: "None of [Index([-1, -1, -1, -1, -1, -1, -2, -1, -1, -2, -1, -1, -1, -1, -2, -1, -1, -2,\n       -2, -2, -1, -1, -2, -2, -2, -2, -1, -1, -1, -2, -2, -1, -1, -2, -1, -1,\n       -2, -1, -1, -2, -2, -1, -1, -2, -1, -2, -2, -1, -1, -2, -2, -1, -1, -2,\n       -1, -2, -1, -2, -1, -1],\n      dtype='int64')] are in the [columns]"
+2025-10-28 20:12:57,664 - INFO - ==================================================
+2025-10-28 20:12:57,664 - INFO - Starting ETL Pipeline Execution
+2025-10-28 20:12:57,665 - INFO - ==================================================
+2025-10-28 20:12:57,846 - INFO - Database connection established successfully
+2025-10-28 20:12:57,847 - INFO - 
+Processing MARKETING department...
+2025-10-28 20:12:57,854 - INFO - Successfully extracted 20 records from marketing_projects.csv
+2025-10-28 20:12:57,865 - INFO - Data transformation completed for 20 records
+2025-10-28 20:12:58,012 - INFO - Successfully loaded 20 records to table 'marketing_projects'
+2025-10-28 20:12:58,012 - INFO - 
+Processing OPERATIONS department...
+2025-10-28 20:12:58,016 - INFO - Successfully extracted 20 records from operations_projects.csv
+2025-10-28 20:12:58,024 - INFO - Data transformation completed for 20 records
+2025-10-28 20:12:58,104 - INFO - Successfully loaded 20 records to table 'operations_projects'
+2025-10-28 20:12:58,105 - INFO - 
+Processing IT department...
+2025-10-28 20:12:58,108 - INFO - Successfully extracted 20 records from it_projects.csv
+2025-10-28 20:12:58,115 - INFO - Data transformation completed for 20 records
+2025-10-28 20:12:58,264 - INFO - Successfully loaded 20 records to table 'it_projects'
+2025-10-28 20:12:58,264 - INFO - 
+Consolidating all departments...
+2025-10-28 20:12:58,286 - INFO - Extracted - Marketing: 20, Operations: 20, IT: 20 records
+2025-10-28 20:12:58,383 - INFO - Successfully loaded 60 records to table 'consolidated_projects'
+2025-10-28 20:12:58,384 - INFO - Successfully consolidated 60 total records
+2025-10-28 20:12:58,385 - INFO - 
+Calculating KPIs...
+2025-10-28 20:12:58,385 - ERROR - Error calculating KPIs: 'Missing expected column: Delivery_Status'
+2025-10-28 20:12:58,386 - ERROR - 
+ETL Pipeline Failed: 'Missing expected column: Delivery_Status'
+2025-10-28 20:14:42,997 - INFO - ==================================================
+2025-10-28 20:14:42,998 - INFO - Starting ETL Pipeline Execution
+2025-10-28 20:14:42,998 - INFO - ==================================================
+2025-10-28 20:14:43,177 - INFO - Database connection established successfully
+2025-10-28 20:14:43,178 - INFO - 
+Processing MARKETING department...
+2025-10-28 20:14:43,185 - INFO - Successfully extracted 20 records from marketing_projects.csv
+2025-10-28 20:14:43,197 - INFO - Data transformation completed for 20 records
+2025-10-28 20:14:43,323 - INFO - Successfully loaded 20 records to table 'marketing_projects'
+2025-10-28 20:14:43,324 - INFO - 
+Processing OPERATIONS department...
+2025-10-28 20:14:43,327 - INFO - Successfully extracted 20 records from operations_projects.csv
+2025-10-28 20:14:43,333 - INFO - Data transformation completed for 20 records
+2025-10-28 20:14:43,412 - INFO - Successfully loaded 20 records to table 'operations_projects'
+2025-10-28 20:14:43,412 - INFO - 
+Processing IT department...
+2025-10-28 20:14:43,416 - INFO - Successfully extracted 20 records from it_projects.csv
+2025-10-28 20:14:43,421 - INFO - Data transformation completed for 20 records
+2025-10-28 20:14:43,505 - INFO - Successfully loaded 20 records to table 'it_projects'
+2025-10-28 20:14:43,505 - INFO - 
+Consolidating all departments...
+2025-10-28 20:14:43,526 - INFO - Extracted - Marketing: 20, Operations: 20, IT: 20 records
+2025-10-28 20:14:43,612 - INFO - Successfully loaded 60 records to table 'consolidated_projects'
+2025-10-28 20:14:43,613 - INFO - Successfully consolidated 60 total records
+2025-10-28 20:14:43,613 - INFO - 
+Calculating KPIs...
+2025-10-28 20:14:43,625 - INFO - KPI Calculations:
+2025-10-28 20:14:43,626 - INFO -   total_projects: 60
+2025-10-28 20:14:43,626 - INFO -   on_time_delivery_%: 40.0
+2025-10-28 20:14:43,627 - INFO -   avg_cost_variance_%: 2.41
+2025-10-28 20:14:43,628 - INFO -   avg_delay_days: 75.53
+2025-10-28 20:14:43,628 - INFO -   avg_completion_rate_%: 62.23
+2025-10-28 20:14:43,628 - INFO -   total_planned_cost: 2755960
+2025-10-28 20:14:43,629 - INFO -   total_actual_cost: 2784741.51
+2025-10-28 20:14:43,629 - INFO -   projects_over_budget: 35
+2025-10-28 20:14:43,629 - INFO -   projects_delayed: 36
+2025-10-28 20:14:43,630 - INFO - 
+==================================================
+2025-10-28 20:14:43,630 - INFO - ETL Pipeline Completed Successfully!
+2025-10-28 20:14:43,631 - INFO - ==================================================
