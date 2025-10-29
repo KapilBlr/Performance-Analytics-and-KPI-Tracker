@@ -1,0 +1,11 @@
+﻿Project_Name,Department,Manager,Status,Sum of Cost_Variance_Pct,Budget_Status,Sum of Duration_Days
+Backup System Overhaul,IT,Anjali Desai,In Progress,11.03,Over Budget,156
+Business Intelligence Dashboard,IT,Karan Gupta,In Progress,-14.06,Under Budget,167
+Cloud Migration Project,IT,Anjali Desai,Not Started,5.84,Within Budget,168
+Database Migration,IT,Anjali Desai,In Progress,6.54,Within Budget,157
+DevOps Pipeline Implementation,IT,Anjali Desai,In Progress,1.27,Within Budget,125
+Disaster Recovery Setup,IT,Karan Gupta,In Progress,4.74,Within Budget,127
+Microservices Architecture,IT,Anjali Desai,Not Started,-4.55,Within Budget,162
+Mobile App Development,IT,Anjali Desai,In Progress,-6.17,Within Budget,163
+Six Sigma Project,Operations,Ravi Patel,Not Started,-1.05,Within Budget,112
+Waste Reduction Program,Operations,Aditi Nair,Not Started,1,Within Budget,110
