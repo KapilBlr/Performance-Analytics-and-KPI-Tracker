@@ -1,0 +1,21 @@
+Project_ID,Department,Project_Name,Manager,Start_Date,End_Date,Planned_Cost,Actual_Cost,Planned_Completion,Actual_Completion,Status,Tasks_Total,Tasks_Completed,Planned_Hours,Actual_Hours
+1001,Marketing,Content Marketing Strategy,Emma Watson,2024-08-15,2024-10-03,10425,11629.95,100,71,In Progress,40,28,684,759
+1002,Marketing,Q1 Product Launch,Akash Verma,2024-07-03,2024-09-03,16338,15940.05,100,52,In Progress,52,27,1147,1421
+1003,Marketing,SEO Optimization Project,John Smith,2024-10-03,2024-12-26,29213,33311.34,100,0,Not Started,69,0,770,992
+1004,Marketing,Website Redesign,John Smith,2024-07-22,2024-09-03,28965,34608.18,100,0,Not Started,44,0,789,898
+1005,Marketing,Partnership Marketing,Akash Verma,2024-08-12,2024-10-10,23730,25736.64,100,0,Not Started,74,0,1063,1100
+1006,Marketing,Brand Awareness Drive,Sarah Lee,2024-11-24,2025-01-08,20708,20952.17,100,60,On Hold,47,28,1104,1411
+1007,Marketing,Video Marketing Campaign,Akash Verma,2024-07-08,2024-07-26,30673,30378.77,100,100,Completed,34,34,980,1182
+1008,Marketing,Social Media Campaign,Akash Verma,2024-08-21,2024-11-06,35928,41663.51,100,66,In Progress,71,46,542,630
+1009,Marketing,Trade Show Participation,Akash Verma,2024-12-19,2025-02-25,48242,47749.46,100,28,On Hold,44,12,921,1148
+1010,Marketing,Event Marketing Strategy,John Smith,2024-07-05,2024-08-08,37666,39878.62,100,100,Completed,54,54,879,953
+1011,Marketing,Rebranding Initiative,John Smith,2024-12-24,2025-01-21,45190,50287.76,100,57,In Progress,79,45,700,873
+1012,Marketing,Influencer Partnership Program,Emma Watson,2024-07-24,2024-09-09,42806,47800.89,100,0,Not Started,62,0,1040,1195
+1013,Marketing,Loyalty Program Rollout,Sarah Lee,2024-08-12,2024-09-15,45348,53679.56,100,0,Not Started,63,0,1013,1177
+1014,Marketing,Mobile App Launch,John Smith,2024-07-12,2024-09-03,25692,22359.07,100,0,Not Started,66,0,487,665
+1015,Marketing,PR Campaign Launch,John Smith,2024-11-25,2024-12-25,18414,19903.93,100,100,Completed,65,65,940,1133
+1016,Marketing,Customer Survey Initiative,Emma Watson,2024-08-18,2024-09-26,30428,30112.99,100,78,In Progress,72,56,929,1256
+1017,Marketing,Email Marketing Automation,Sarah Lee,2024-08-03,2024-09-29,11378,12014.12,100,50,In Progress,44,22,472,639
+1018,Marketing,Lead Generation Program,John Smith,2024-08-03,2024-08-21,31654,27690.92,100,100,Completed,45,45,897,874
+1019,Marketing,Market Research Study,Sarah Lee,2024-12-19,2025-03-03,25925,29155.69,100,100,Completed,56,56,499,564
+1020,Marketing,Digital Ad Campaign,Akash Verma,2024-10-14,2024-12-26,13550,14710.93,100,100,Completed,71,71,812,937

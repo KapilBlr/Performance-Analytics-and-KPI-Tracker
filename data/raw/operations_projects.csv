@@ -1,0 +1,21 @@
+Project_ID,Department,Project_Name,Manager,Start_Date,End_Date,Planned_Cost,Actual_Cost,Planned_Completion,Actual_Completion,Status,Tasks_Total,Tasks_Completed,Planned_Hours,Actual_Hours
+2001,Operations,Inventory Management System,Ravi Patel,2024-08-14,2024-11-12,46546,43046.28,100,0,Not Started,55,0,568,675
+2002,Operations,Cost Reduction Program,Vikram Singh,2024-09-26,2024-12-21,33694,33628.38,100,55,On Hold,76,41,1077,1463
+2003,Operations,Logistics Network Redesign,Ravi Patel,2024-08-10,2024-10-04,18832,19824.69,100,100,Completed,64,64,721,663
+2004,Operations,Supplier Diversification,Vikram Singh,2024-11-28,2025-03-03,25317,22023.46,100,100,Completed,62,62,590,545
+2005,Operations,Production Line Upgrade,Priya Mehta,2024-12-28,2025-02-24,41461,36981.57,100,100,Completed,66,66,1008,921
+2006,Operations,Quality Control Enhancement,Priya Mehta,2024-10-22,2025-02-01,52042,53758.03,100,100,Completed,46,46,1133,1144
+2007,Operations,Waste Reduction Program,Aditi Nair,2024-10-05,2025-01-23,34660,35007.59,100,0,Not Started,78,0,409,502
+2008,Operations,Sustainability Initiative,Priya Mehta,2024-07-18,2024-09-11,48153,45399.62,100,0,Not Started,52,0,650,770
+2009,Operations,Vendor Management Platform,Ravi Patel,2024-10-27,2025-02-01,61107,58411.02,100,92,In Progress,71,65,967,1233
+2010,Operations,Demand Forecasting System,Priya Mehta,2024-08-09,2024-09-20,73308,65058.11,100,100,Completed,65,65,688,764
+2011,Operations,Cold Chain Management,Aditi Nair,2024-08-22,2024-12-09,70896,66811.99,100,100,Completed,61,61,452,421
+2012,Operations,Supply Chain Integration,Vikram Singh,2024-09-02,2024-09-30,36859,41278.09,100,30,On Hold,70,21,1159,1415
+2013,Operations,Distribution Center Expansion,Vikram Singh,2024-11-01,2024-12-13,19931,23533.88,100,0,Not Started,74,0,958,975
+2014,Operations,Fleet Management System,Aditi Nair,2024-11-18,2025-01-03,43166,38616.56,100,100,Completed,49,49,440,534
+2015,Operations,Lean Manufacturing Implementation,Ravi Patel,2024-12-08,2025-01-18,38178,42875.45,100,29,On Hold,56,16,642,919
+2016,Operations,Warehouse Optimization,Ravi Patel,2024-10-01,2024-11-20,63271,74252.98,100,0,Not Started,80,0,1085,1553
+2017,Operations,Process Automation Initiative,Ravi Patel,2024-09-06,2024-10-17,40070,46291.2,100,100,Completed,60,60,871,890
+2018,Operations,Six Sigma Project,Ravi Patel,2024-08-01,2024-11-21,27656,27364.59,100,0,Not Started,47,0,1191,1357
+2019,Operations,Equipment Maintenance Overhaul,Vikram Singh,2024-12-27,2025-04-02,36702,43261.86,100,0,Not Started,37,0,667,726
+2020,Operations,Safety Compliance Upgrade,Aditi Nair,2024-07-04,2024-10-16,43479,42217.7,100,100,Completed,80,80,1020,1269
