@@ -1,0 +1,21 @@
+Project_ID,Department,Project_Name,Manager,Start_Date,End_Date,Planned_Cost,Actual_Cost,Planned_Completion,Actual_Completion,Status,Tasks_Total,Tasks_Completed,Planned_Hours,Actual_Hours
+3001,IT,Data Center Modernization,Rohit Singh,2024-12-14,2025-03-07,72743,79582.51,100,100,Completed,65,65,830,940
+3002,IT,Database Migration,Anjali Desai,2024-12-24,2025-05-30,42810,45611.07,100,50,In Progress,49,24,711,812
+3003,IT,DevOps Pipeline Implementation,Anjali Desai,2024-11-20,2025-03-25,62237,63030.26,100,82,In Progress,58,47,884,1459
+3004,IT,Network Infrastructure Upgrade,Karan Gupta,2024-12-03,2025-02-19,87561,94771.55,100,100,Completed,69,69,1169,1148
+3005,IT,Cybersecurity Enhancement,Rohit Singh,2024-08-26,2024-11-01,39313,33752.13,100,59,On Hold,45,26,1186,1229
+3006,IT,Software License Optimization,Anjali Desai,2024-12-19,2025-02-23,70328,71947.8,100,100,Completed,45,45,1104,995
+3007,IT,Legacy System Decommission,Neha Sharma,2024-10-08,2024-12-11,87889,88995.74,100,100,Completed,65,65,524,555
+3008,IT,Cloud Migration Project,Anjali Desai,2024-12-17,2025-06-03,93259,98706.1,100,0,Not Started,78,0,1027,1445
+3009,IT,Backup System Overhaul,Anjali Desai,2024-11-15,2025-04-20,40861,45367.13,100,65,In Progress,60,39,1052,1241
+3010,IT,AI/ML Model Deployment,Anjali Desai,2024-12-08,2025-02-23,77654,68111.81,100,100,Completed,48,48,743,751
+3011,IT,Blockchain Integration,Neha Sharma,2024-08-05,2024-10-15,70205,76725.81,100,100,Completed,75,75,824,859
+3012,IT,API Integration Platform,Anjali Desai,2024-10-02,2024-12-09,75069,74041.82,100,94,In Progress,79,74,420,758
+3013,IT,Microservices Architecture,Anjali Desai,2024-10-01,2025-03-12,66105,63098.18,100,0,Not Started,54,0,829,1052
+3014,IT,IoT Platform Development,Karan Gupta,2024-10-08,2024-12-23,77125,78665.55,100,100,Completed,54,54,1095,1291
+3015,IT,Business Intelligence Dashboard,Karan Gupta,2024-10-05,2025-03-21,90008,77356.32,100,92,In Progress,55,50,427,459
+3016,IT,ERP System Upgrade,Anjali Desai,2024-08-28,2024-12-07,43819,38017.35,100,100,Completed,54,54,865,877
+3017,IT,Mobile App Development,Anjali Desai,2024-09-25,2025-03-07,75255,70611.39,100,84,In Progress,35,29,453,833
+3018,IT,CRM System Implementation,Rohit Singh,2024-08-21,2024-10-10,25276,28157.0,100,100,Completed,45,45,420,469
+3019,IT,Disaster Recovery Setup,Karan Gupta,2024-08-16,2024-12-21,34993,36651.3,100,66,In Progress,43,28,1185,1473
+3020,IT,Zero Trust Security Model,Neha Sharma,2024-08-10,2024-10-04,95849,82333.09,100,74,In Progress,49,36,806,1367
